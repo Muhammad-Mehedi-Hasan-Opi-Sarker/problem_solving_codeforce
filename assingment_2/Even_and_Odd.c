@@ -19,6 +19,7 @@ int main()
         }
         
     }
+    // hellogit
     printf("%d ", sumEven);
     printf("%d", sumOdd);
     return 0;
